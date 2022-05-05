@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lewiswestcott
-- 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ... coding and web by jack kimmins
-- 💞️ I’m looking to collaborate on ... coding
-- 📫 How to reach me ... twitter 
+- 👀 I’m interested in ... front end web development
+- 🌱 I’m currently learning ... expanding my knowledge of front end web development
+- 📫 How to reach me ... twitter, linkedin
 
 <!---
 lewiswestcott/lewiswestcott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
